@@ -1,3 +1,7 @@
+## GITHUB REPO CLONED FROM CTURRA FOR MY OWN LEARNING PURPOSES, FOR BETTER INFORMATION CHECK THE ORIGINAL REPO
+
+https://github.com/cturra/docker-ntp
+
 ## Supported Architectures:
 
 Architectures officially supported by this Docker container:
